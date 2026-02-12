@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fight Guess</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>Fight Guess</h1>
+    <p class="sub">Fan-made guessing game, not affiliated with UFC.</p>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>Guess today’s fighter</h2>
+
+      <div class="row">
+        <input id="guessInput" list="fighterList" placeholder="Type a fighter name…" autocomplete="off" />
+        <datalist id="fighterList"></datalist>
+
+        <button id="guessBtn">Guess</button>
+        <button id="resetBtn" class="ghost" title="Reset today's game">Reset</button>
+      </div>
+
+      <p id="status" class="status"></p>
+    </section>
+
+    <section class="card">
+      <h2>Results</h2>
+
+      <div class="legend">
+        <span class="pill ok">✓</span> correct
+        <span class="pill up">↑</span> your guess is lower
+        <span class="pill down">↓</span> your guess is higher
+        <span class="pill no">✗</span> wrong
+      </div>
+
+      <div class="table">
+        <div class="thead">
+          <div>Fighter</div>
+          <div>Age</div>
+          <div>Weight</div>
+          <div>Gender</div>
+          <div>Champion</div>
+          <div>Country</div>
+        </div>
+        <div id="rows" class="tbody"></div>
+      </div>
+
+      <div class="row end">
+        <button id="shareBtn" class="ghost">Copy Share Text</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <small>Tip: start with 100–300 fighters in <code>data/fighters.json</code>, then grow it.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
