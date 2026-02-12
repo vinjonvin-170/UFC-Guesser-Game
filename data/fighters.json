@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "tom-aspinall",
+    "name": "Tom Aspinall",
+    "dob": "1993-04-11",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United Kingdom"
+  },
+  {
+    "id": "ciryl-gane",
+    "name": "Ciryl Gane",
+    "dob": "1990-04-12",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "France"
+  },
+  {
+    "id": "alexander-volkov",
+    "name": "Alexander Volkov",
+    "dob": "1988-10-24",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "sergei-pavlovich",
+    "name": "Sergei Pavlovich",
+    "dob": "1992-05-13",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "curtis-blaydes",
+    "name": "Curtis Blaydes",
+    "dob": "1991-02-18",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "waldo-cortes-acosta",
+    "name": "Waldo Cortes-Acosta",
+    "dob": "1991-10-03",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Dominican Republic"
+  },
+  {
+    "id": "rizvan-kuniev",
+    "name": "Rizvan Kuniev",
+    "dob": "1992-03-10",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "serghei-spivac",
+    "name": "Serghei Spivac",
+    "dob": "1995-01-24",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Moldova"
+  },
+  {
+    "id": "jailton-almeida",
+    "name": "Jailton Almeida",
+    "dob": "1991-06-28",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "ante-delija",
+    "name": "Ante Delija",
+    "dob": "1990-08-07",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Croatia"
+  },
+  {
+    "id": "marcin-tybura",
+    "name": "Marcin Tybura",
+    "dob": "1985-11-09",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Poland"
+  },
+  {
+    "id": "derrick-lewis",
+    "name": "Derrick Lewis",
+    "dob": "1985-02-07",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "tallison-teixeira",
+    "name": "Tallison Teixeira",
+    "dob": "1999-12-07",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "shamil-gaziev",
+    "name": "Shamil Gaziev",
+    "dob": "1990-02-10",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "valter-walker",
+    "name": "Valter Walker",
+    "dob": "1997-12-14",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "mick-parkin",
+    "name": "Mick Parkin",
+    "dob": "1995-10-02",
+    "weightClass": "Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United Kingdom"
+  },
+  {
+    "id": "alex-pereira",
+    "name": "Alex Pereira",
+    "dob": "1987-07-07",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "magomed-ankalaev",
+    "name": "Magomed Ankalaev",
+    "dob": "1992-06-02",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "jiri-prochazka",
+    "name": "Jiří Procházka",
+    "dob": "1992-10-14",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Czech Republic"
+  },
+  {
+    "id": "carlos-ulberg",
+    "name": "Carlos Ulberg",
+    "dob": "1990-11-17",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "New Zealand"
+  },
+  {
+    "id": "khalil-rountree-jr",
+    "name": "Khalil Rountree Jr.",
+    "dob": "1990-02-26",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "jan-blachowicz",
+    "name": "Jan Błachowicz",
+    "dob": "1983-02-24",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Poland"
+  },
+  {
+    "id": "azamat-murzakanov",
+    "name": "Azamat Murzakanov",
+    "dob": "1989-04-12",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "jamahal-hill",
+    "name": "Jamahal Hill",
+    "dob": "1991-05-19",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "volkan-oezdemir",
+    "name": "Volkan Oezdemir",
+    "dob": "1989-09-19",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Switzerland"
+  },
+  {
+    "id": "bogdan-guskov",
+    "name": "Bogdan Guskov",
+    "dob": "1992-09-12",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Uzbekistan"
+  },
+  {
+    "id": "dominick-reyes",
+    "name": "Dominick Reyes",
+    "dob": "1989-12-26",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "aleksandar-rakic",
+    "name": "Aleksandar Rakić",
+    "dob": "1992-02-06",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Austria"
+  },
+  {
+    "id": "johnny-walker",
+    "name": "Johnny Walker",
+    "dob": "1992-03-30",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "nikita-krylov",
+    "name": "Nikita Krylov",
+    "dob": "1992-03-07",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Ukraine"
+  },
+  {
+    "id": "dustin-jacoby",
+    "name": "Dustin Jacoby",
+    "dob": "1988-04-04",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "zhang-mingyang",
+    "name": "Zhang Mingyang",
+    "dob": "1998-08-16",
+    "weightClass": "Light Heavyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "China"
+  },
+  {
+    "id": "khamzat-chimaev",
+    "name": "Khamzat Chimaev",
+    "dob": "1994-05-01",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "dricus-du-plessis",
+    "name": "Dricus du Plessis",
+    "dob": "1994-01-14",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "South Africa"
+  },
+  {
+    "id": "nassourdine-imavov",
+    "name": "Nassourdine Imavov",
+    "dob": "1995-03-01",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "sean-strickland",
+    "name": "Sean Strickland",
+    "dob": "1991-02-27",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "anthony-hernandez",
+    "name": "Anthony Hernandez",
+    "dob": "1993-10-18",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "brendan-allen",
+    "name": "Brendan Allen",
+    "dob": "1995-12-28",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "israel-adesanya",
+    "name": "Israel Adesanya",
+    "dob": "1989-07-22",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Nigeria"
+  },
+  {
+    "id": "caio-borralho",
+    "name": "Caio Borralho",
+    "dob": "1993-01-16",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "reinier-de-ridder",
+    "name": "Reinier de Ridder",
+    "dob": "1990-09-07",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Netherlands"
+  },
+  {
+    "id": "robert-whittaker",
+    "name": "Robert Whittaker",
+    "dob": "1990-12-20",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "New Zealand"
+  },
+  {
+    "id": "jared-cannonier",
+    "name": "Jared Cannonier",
+    "dob": "1984-03-16",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "roman-dolidze",
+    "name": "Roman Dolidze",
+    "dob": "1988-07-15",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Georgia"
+  },
+  {
+    "id": "paulo-costa",
+    "name": "Paulo Costa",
+    "dob": "1991-04-21",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "gregory-rodrigues",
+    "name": "Gregory Rodrigues",
+    "dob": "1992-02-17",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "joe-pyfer",
+    "name": "Joe Pyfer",
+    "dob": "1996-09-17",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "brunno-ferreira",
+    "name": "Brunno Ferreira",
+    "dob": "1992-11-04",
+    "weightClass": "Middleweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "islam-makhachev",
+    "name": "Islam Makhachev",
+    "dob": "1991-10-27",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "jack-della-maddalena",
+    "name": "Jack Della Maddalena",
+    "dob": "1996-09-10",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Australia"
+  },
+  {
+    "id": "ian-machado-garry",
+    "name": "Ian Machado Garry",
+    "dob": "1997-11-17",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Ireland"
+  },
+  {
+    "id": "michael-morales",
+    "name": "Michael Morales",
+    "dob": "1999-06-24",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Ecuador"
+  },
+  {
+    "id": "belal-muhammad",
+    "name": "Belal Muhammad",
+    "dob": "1988-07-09",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "carlos-prates",
+    "name": "Carlos Prates",
+    "dob": "1993-08-17",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "sean-brady",
+    "name": "Sean Brady",
+    "dob": "1992-11-23",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "kamaru-usman",
+    "name": "Kamaru Usman",
+    "dob": "1987-05-11",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Nigeria"
+  },
+  {
+    "id": "leon-edwards",
+    "name": "Leon Edwards",
+    "dob": "1991-08-25",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Jamaica"
+  },
+  {
+    "id": "joaquin-buckley",
+    "name": "Joaquin Buckley",
+    "dob": "1994-04-27",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "gabriel-bonfim",
+    "name": "Gabriel Bonfim",
+    "dob": "1997-08-20",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "gilbert-burns",
+    "name": "Gilbert Burns",
+    "dob": "1986-07-20",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "geoff-neal",
+    "name": "Geoff Neal",
+    "dob": "1990-08-28",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "daniel-rodriguez",
+    "name": "Daniel Rodriguez",
+    "dob": "1986-12-31",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "colby-covington",
+    "name": "Colby Covington",
+    "dob": "1988-02-22",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "michael-page",
+    "name": "Michael Page",
+    "dob": "1987-04-07",
+    "weightClass": "Welterweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United Kingdom"
+  },
+  {
+    "id": "ilia-topuria",
+    "name": "Ilia Topuria",
+    "dob": "1997-01-21",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Germany"
+  },
+  {
+    "id": "justin-gaethje",
+    "name": "Justin Gaethje",
+    "dob": "1988-11-14",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "arman-tsarukyan",
+    "name": "Arman Tsarukyan",
+    "dob": "1996-10-11",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Georgia"
+  },
+  {
+    "id": "charles-oliveira",
+    "name": "Charles Oliveira",
+    "dob": "1989-10-17",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "max-holloway",
+    "name": "Max Holloway",
+    "dob": "1991-12-04",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "benoit-saint-denis",
+    "name": "Benoît Saint Denis",
+    "dob": "1995-12-18",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "France"
+  },
+  {
+    "id": "paddy-pimblett",
+    "name": "Paddy Pimblett",
+    "dob": "1995-01-03",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "England"
+  },
+  {
+    "id": "mateusz-gamrot",
+    "name": "Mateusz Gamrot",
+    "dob": "1990-12-11",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Poland"
+  },
+  {
+    "id": "dan-hooker",
+    "name": "Dan Hooker",
+    "dob": "1990-02-13",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "New Zealand"
+  },
+  {
+    "id": "mauricio-ruffy",
+    "name": "Maurício Ruffy",
+    "dob": "1996-06-17",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "renato-moicano",
+    "name": "Renato Moicano",
+    "dob": "1989-05-21",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "rafael-fiziev",
+    "name": "Rafael Fiziev",
+    "dob": "1993-03-05",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Kazakhstan"
+  },
+  {
+    "id": "beneil-dariush",
+    "name": "Beneil Dariush",
+    "dob": "1989-05-06",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Iran"
+  },
+  {
+    "id": "michael-chandler",
+    "name": "Michael Chandler",
+    "dob": "1986-04-24",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "manuel-torres",
+    "name": "Manuel Torres",
+    "dob": "1995-03-25",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "fares-ziam",
+    "name": "Farès Ziam",
+    "dob": "1997-03-21",
+    "weightClass": "Lightweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "France"
+  },
+  {
+    "id": "alexander-volkanovski",
+    "name": "Alexander Volkanovski",
+    "dob": "1988-09-29",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Australia"
+  },
+  {
+    "id": "movsar-evloev",
+    "name": "Movsar Evloev",
+    "dob": "1994-02-11",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "diego-lopes",
+    "name": "Diego Lopes",
+    "dob": "1994-12-30",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "lerone-murphy",
+    "name": "Lerone Murphy",
+    "dob": "1991-07-22",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "England"
+  },
+  {
+    "id": "yair-rodriguez",
+    "name": "Yair Rodríguez",
+    "dob": "1992-10-06",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "aljamain-sterling",
+    "name": "Aljamain Sterling",
+    "dob": "1989-07-31",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "jean-silva",
+    "name": "Jean Silva",
+    "dob": "1996-12-13",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "arnold-allen",
+    "name": "Arnold Allen",
+    "dob": "1994-01-22",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "England"
+  },
+  {
+    "id": "youssef-zalal",
+    "name": "Youssef Zalal",
+    "dob": "1996-09-04",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Morocco"
+  },
+  {
+    "id": "steve-garcia",
+    "name": "Steve Garcia",
+    "dob": "1992-05-22",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "brian-ortega",
+    "name": "Brian Ortega",
+    "dob": "1991-02-21",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "josh-emmett",
+    "name": "Josh Emmett",
+    "dob": "1985-03-04",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "patricio-pitbull",
+    "name": "Patrício Pitbull",
+    "dob": "1987-07-07",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "kevin-vallejos",
+    "name": "Kevin Vallejos",
+    "dob": "2001-12-08",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Argentina"
+  },
+  {
+    "id": "dan-ige",
+    "name": "Dan Ige",
+    "dob": "1991-08-06",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "david-onama",
+    "name": "David Onama",
+    "dob": "1994-06-07",
+    "weightClass": "Featherweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Uganda"
+  },
+  {
+    "id": "petr-yan",
+    "name": "Petr Yan",
+    "dob": "1993-02-11",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "merab-dvalishvili",
+    "name": "Merab Dvalishvili",
+    "dob": "1991-01-10",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Georgia"
+  },
+  {
+    "id": "umar-nurmagomedov",
+    "name": "Umar Nurmagomedov",
+    "dob": "1996-01-03",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "sean-omalley",
+    "name": "Sean O'Malley",
+    "dob": "1994-10-24",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "cory-sandhagen",
+    "name": "Cory Sandhagen",
+    "dob": "1992-04-20",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "song-yadong",
+    "name": "Song Yadong",
+    "dob": "1997-12-02",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "China"
+  },
+  {
+    "id": "aiemann-zahabi",
+    "name": "Aiemann Zahabi",
+    "dob": "1987-11-19",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Canada"
+  },
+  {
+    "id": "deiveson-figueiredo",
+    "name": "Deiveson Figueiredo",
+    "dob": "1987-12-18",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "mario-bautista",
+    "name": "Mario Bautista",
+    "dob": "1993-07-01",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "marlon-vera",
+    "name": "Marlon Vera",
+    "dob": "1992-12-02",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Ecuador"
+  },
+  {
+    "id": "david-martinez",
+    "name": "David Martínez",
+    "dob": "1998-08-03",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "payton-talbott",
+    "name": "Payton Talbott",
+    "dob": "1998-09-09",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "vinicius-oliveira",
+    "name": "Vinicius Oliveira",
+    "dob": "1995-11-30",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "rob-font",
+    "name": "Rob Font",
+    "dob": "1987-06-25",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "kyler-phillips",
+    "name": "Kyler Phillips",
+    "dob": "1995-06-12",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "montel-jackson",
+    "name": "Montel Jackson",
+    "dob": "1992-04-24",
+    "weightClass": "Bantamweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "joshua-van",
+    "name": "Joshua Van",
+    "dob": "2001-10-10",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Myanmar"
+  },
+  {
+    "id": "alexandre-pantoja",
+    "name": "Alexandre Pantoja",
+    "dob": "1990-04-16",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "manel-kape",
+    "name": "Manel Kape",
+    "dob": "1993-11-14",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Angola"
+  },
+  {
+    "id": "tatsuro-taira",
+    "name": "Tatsuro Taira",
+    "dob": "2000-01-27",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Japan"
+  },
+  {
+    "id": "brandon-royval",
+    "name": "Brandon Royval",
+    "dob": "1992-08-16",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "kyoji-horiguchi",
+    "name": "Kyoji Horiguchi",
+    "dob": "1990-10-12",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Japan"
+  },
+  {
+    "id": "brandon-moreno",
+    "name": "Brandon Moreno",
+    "dob": "1993-12-07",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": true,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "amir-albazi",
+    "name": "Amir Albazi",
+    "dob": "1993-10-27",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Iraq"
+  },
+  {
+    "id": "asu-almabayev",
+    "name": "Asu Almabayev",
+    "dob": "1994-01-25",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Kazakhstan"
+  },
+  {
+    "id": "tim-elliott",
+    "name": "Tim Elliott",
+    "dob": "1986-12-24",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "alex-perez",
+    "name": "Alex Perez",
+    "dob": "1992-03-21",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "steve-erceg",
+    "name": "Steve Erceg",
+    "dob": "1995-07-27",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Australia"
+  },
+  {
+    "id": "tagir-ulanbekov",
+    "name": "Tagir Ulanbekov",
+    "dob": "1991-07-08",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "charles-johnson",
+    "name": "Charles Johnson",
+    "dob": "1991-01-10",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "bruno-gustavo-da-silva",
+    "name": "Bruno Gustavo da Silva",
+    "dob": "1990-03-16",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "loneer-kavanagh",
+    "name": "Lone'er Kavanagh",
+    "dob": "1999-06-09",
+    "weightClass": "Flyweight",
+    "gender": "M",
+    "everChampion": false,
+    "birthCountry": "England"
+  },
+  {
+    "id": "kayla-harrison",
+    "name": "Kayla Harrison",
+    "dob": "1990-07-02",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "julianna-pena",
+    "name": "Julianna Peña",
+    "dob": "1989-08-19",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "raquel-pennington",
+    "name": "Raquel Pennington",
+    "dob": "1988-09-05",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "norma-dumont",
+    "name": "Norma Dumont",
+    "dob": "1990-10-01",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "ketlen-vieira",
+    "name": "Ketlen Vieira",
+    "dob": "1991-08-26",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "yana-santos",
+    "name": "Yana Santos",
+    "dob": "1989-11-11",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Russia"
+  },
+  {
+    "id": "irene-aldana",
+    "name": "Irene Aldana",
+    "dob": "1988-03-26",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "ailin-perez",
+    "name": "Ailín Pérez",
+    "dob": "1994-10-05",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Argentina"
+  },
+  {
+    "id": "macy-chiasson",
+    "name": "Macy Chiasson",
+    "dob": "1991-07-27",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "karol-rosa",
+    "name": "Karol Rosa",
+    "dob": "1994-12-30",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "jacqueline-cavalcanti",
+    "name": "Jacqueline Cavalcanti",
+    "dob": "1997-08-29",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "mayra-bueno-silva",
+    "name": "Mayra Bueno Silva",
+    "dob": "1991-08-22",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "nora-cornolle",
+    "name": "Nora Cornolle",
+    "dob": "1989-12-06",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "France"
+  },
+  {
+    "id": "miesha-tate",
+    "name": "Miesha Tate",
+    "dob": "1986-08-18",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "joselyne-edwards",
+    "name": "Joselyne Edwards",
+    "dob": "1995-09-29",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Panama"
+  },
+  {
+    "id": "luana-santos",
+    "name": "Luana Santos",
+    "dob": "2000-04-16",
+    "weightClass": "Bantamweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "valentina-shevchenko",
+    "name": "Valentina Shevchenko",
+    "dob": "1988-03-07",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "Kyrgyzstan"
+  },
+  {
+    "id": "natalia-silva",
+    "name": "Natália Silva",
+    "dob": "1997-02-03",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "manon-fiorot",
+    "name": "Manon Fiorot",
+    "dob": "1990-02-17",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "France"
+  },
+  {
+    "id": "alexa-grasso",
+    "name": "Alexa Grasso",
+    "dob": "1993-08-09",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "erin-blanchfield",
+    "name": "Erin Blanchfield",
+    "dob": "1999-05-04",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "maycee-barber",
+    "name": "Maycee Barber",
+    "dob": "1998-05-18",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "jasmine-jasudavicius",
+    "name": "Jasmine Jasudavicius",
+    "dob": "1989-03-01",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Canada"
+  },
+  {
+    "id": "rose-namajunas",
+    "name": "Rose Namajunas",
+    "dob": "1992-06-29",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "tracy-cortez",
+    "name": "Tracy Cortez",
+    "dob": "1993-12-10",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "karine-silva",
+    "name": "Karine Silva",
+    "dob": "1993-12-02",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "miranda-maverick",
+    "name": "Miranda Maverick",
+    "dob": "1997-07-01",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "wang-cong",
+    "name": "Wang Cong",
+    "dob": "1992-05-15",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "China"
+  },
+  {
+    "id": "casey-oneill",
+    "name": "Casey O'Neill",
+    "dob": "1997-10-07",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Scotland"
+  },
+  {
+    "id": "eduarda-moura",
+    "name": "Eduarda Moura",
+    "dob": "1994-02-28",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "jj-aldrich",
+    "name": "JJ Aldrich",
+    "dob": "1992-09-29",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "gabriella-fernandes",
+    "name": "Gabriella Fernandes",
+    "dob": "1993-08-13",
+    "weightClass": "Flyweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "mackenzie-dern",
+    "name": "Mackenzie Dern",
+    "dob": "1993-03-24",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "zhang-weili",
+    "name": "Zhang Weili",
+    "dob": "1990-09-30",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "China"
+  },
+  {
+    "id": "tatiana-suarez",
+    "name": "Tatiana Suarez",
+    "dob": "1990-12-19",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "virna-jandiroba",
+    "name": "Virna Jandiroba",
+    "dob": "1988-05-30",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "yan-xiaonan",
+    "name": "Yan Xiaonan",
+    "dob": "1989-06-16",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "China"
+  },
+  {
+    "id": "amanda-lemos",
+    "name": "Amanda Lemos",
+    "dob": "1987-05-22",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "loopy-godinez",
+    "name": "Loopy Godínez",
+    "dob": "1993-09-06",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Mexico"
+  },
+  {
+    "id": "tabatha-ricci",
+    "name": "Tabatha Ricci",
+    "dob": "1995-02-21",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "gillian-robertson",
+    "name": "Gillian Robertson",
+    "dob": "1995-05-17",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Canada"
+  },
+  {
+    "id": "jessica-andrade",
+    "name": "Jéssica Andrade",
+    "dob": "1991-09-25",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": true,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "amanda-ribas",
+    "name": "Amanda Ribas",
+    "dob": "1993-08-26",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "fatima-kline",
+    "name": "Fatima Kline",
+    "dob": "2000-07-12",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "denise-gomes",
+    "name": "Denise Gomes",
+    "dob": "1999-12-30",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "alexia-thainara",
+    "name": "Alexia Thainara",
+    "dob": "1997-11-20",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Brazil"
+  },
+  {
+    "id": "angela-hill",
+    "name": "Angela Hill",
+    "dob": "1985-01-12",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "United States"
+  },
+  {
+    "id": "mizuki-inoue",
+    "name": "Mizuki Inoue",
+    "dob": "1994-08-19",
+    "weightClass": "Strawweight",
+    "gender": "F",
+    "everChampion": false,
+    "birthCountry": "Japan"
+  }
+]
